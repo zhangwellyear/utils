@@ -1,0 +1,23 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "`note: some useful tools`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangwellyear/utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangwellyear/utils/issues"
+  },
+  "homepage": "https://github.com/zhangwellyear/utils#readme",
+  "devDependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
